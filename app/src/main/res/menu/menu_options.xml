@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/normal_mode"
+        android:title="Normal Mode" />
+    <item
+        android:id="@+id/hibrit_mode"
+        android:title="Hybrid Mode" />
+    <item
+        android:id="@+id/satelite_mode"
+        android:title="Satelite Mode" />
+    <item
+        android:id="@+id/teramain_map"
+        android:title="Teramain Map" />
+    <item
+        android:id="@+id/get_location"
+        android:title="Get Location" />
+</menu>
