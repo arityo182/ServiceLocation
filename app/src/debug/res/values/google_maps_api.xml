@@ -10,6 +10,7 @@
 
     Package name:
     com.arbud.servicelocation
+    AIzaSyDUzybSiiIUrc2HOydEtMNNy6jPTbjtUEM
 
     SHA-1 certificate fingerprint:
     AA:46:CE:4D:F7:D0:78:BF:F5:88:2D:34:C1:6C:8D:02:75:3B:52:38
@@ -20,5 +21,5 @@
     Once you have your key (it starts with "AIza"), replace the "google_maps_key"
     string in this file.
     -->
-    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyDUzybSiiIUrc2HOydEtMNNy6jPTbjtUEM</string>
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">your_API</string>
 </resources>
